@@ -24,3 +24,7 @@ james, brad, kelly, tony
 # Test Queries 
 <img src="/queries/2.dml_view.png></img>
 <br><br>
+
+# linux server setting && queries excuting
+<img src="/linux_sh/1.server-setting.PNG"></img>
+<br><br>
