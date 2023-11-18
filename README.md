@@ -26,5 +26,5 @@ james, brad, kelly, tony
 <br><br>
 
 # linux server setting && queries excuting
-<img src="/linux_sh/1.server-setting-view.PNG"></img>
+<img src="/linux_sh/2.server-setting-view.PNG"></img>
 <br><br>
