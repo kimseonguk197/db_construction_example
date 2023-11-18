@@ -10,19 +10,19 @@ james, brad, kelly, tony
 <br><br>
 
 # ERD
-<img src="/data_modeling/1.board-erd.png"></img> 
+<img src="/data_modeling/1.board-erd.PNG"></img> 
 <br><br>
 
 # Relational Schema
-<img src="/data_modeling/2.board-relational-schema.png"></img> 
+<img src="/data_modeling/2.board-relational-schema.PNG"></img> 
 <br><br>
 
 # Main DDL Queries
-<img src="/queries/2.ddl_view.png"></img>
+<img src="/queries/2.ddl_view.PNG"></img>
 <br><br>
 
 # Test Queries 
-<img src="/queries/2.dml_view.png></img>
+<img src="/queries/2.dml_view.PNG></img>
 <br><br>
 
 # linux server setting && queries excuting
