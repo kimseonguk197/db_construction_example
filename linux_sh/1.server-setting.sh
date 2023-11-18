@@ -17,4 +17,4 @@ exit
 sudo apt-get install git
 git clone https://github.com/kimseonguk197/mariadb_syntax.git
 cd queries
-sudo mysql --binary-mode -u root -p board < 1.dd
+sudo mysql root -p board < 1.dd
