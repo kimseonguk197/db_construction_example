@@ -22,7 +22,7 @@ james, brad, kelly, tony
 <br><br>
 
 # Test Queries 
-<img src="/queries/2.dml_view.PNG></img>
+<img src="/queries/2.dml_view.PNG"></img>
 <br><br>
 
 # linux server setting && queries excuting
